@@ -15,12 +15,12 @@ import { Navigation } from "./src/infrastructure/navigation";
 import { AuthenticationContextProvider } from "./src/services/authentication/authentication.context";
 
 const firebaseConfig = {
-  apiKey: "<fill in your own>",
-  authDomain: "<fill in your own>",
-  projectId: "<fill in your own>",
-  storageBucket: "<fill in your own>",
-  messagingSenderId: "<fill in your own>",
-  appId: "<fill in your own>",
+  apiKey: "< >",
+  authDomain: "< >",
+  projectId: "< >",
+  storageBucket: "< >",
+  messagingSenderId: "< >",
+  appId: "< >",
 };
 
 initializeApp(firebaseConfig);
